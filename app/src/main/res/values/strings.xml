@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Water Reminder</string>
+
+    <string-array name="waterOptions">
+        <item>Drink Water</item>
+        <item>Boil Water</item>
+    </string-array>
+
+    <string-array name="repeatOptions">
+        <item>Once</item>
+        <item>Every Week</item>
+        <item>Every Start of Month</item>
+    </string-array>
+</resources>
